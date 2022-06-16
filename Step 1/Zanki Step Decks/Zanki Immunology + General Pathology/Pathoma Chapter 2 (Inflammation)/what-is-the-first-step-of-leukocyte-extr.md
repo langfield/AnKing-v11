@@ -1,0 +1,53 @@
+## Note
+nid: 1487642457129
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Immunology_+_General_Pathology::Pathoma_Chapter_2_(Inflammation), #AK_Step1_v11::#B&B::16_Pathology::07_Acute_&_Chronic_Inflammation, #AK_Step1_v11::#FirstAid::04_Pathology::02_Inflammation::05_Leukocyte_Extravasation::1_Margination, #AK_Step1_v11::#OME::07_Immunology::04_Innate_Response, #AK_Step1_v11::#OME_banner::Basic_Science::07_Immunology, #AK_Step1_v11::#Pathoma::02_Inflammation::01_Acute_Inflammation::2, #AK_Step1_v11::#Physeo::08_Immunology::01_Immunology::03_Neutrophils
+markdown: false
+
+### Text
+<div>
+  What is the <i>first</i> step of <b>leukocyte extravasation</b>?
+</div>
+<div>
+  {{c1::Margination}}
+</div>
+
+### Extra
+<img src="paste-589656060068189.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpPjipZI.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/immunology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_1.png"></a>
+</div>
+
+### Additional Resources
+<b>UWorld:</b> <img src="rolling.jpg">
+
+### One by one
+

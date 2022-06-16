@@ -1,0 +1,60 @@
+## Note
+nid: 1509287308189
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Lolnotacop::Drugs, #AK_Step1_v11::#B&B::11_Hematology::04_Cancer_Drugs::05_DNA_Drugs, #AK_Step1_v11::#FirstAid::10_Hematology_Oncology::05_Pharm::10_Cancer_Therapy_Targets, #AK_Step1_v11::#FirstAid::10_Hematology_Oncology::05_Pharm::16_Etoposide_Teniposide, #AK_Step1_v11::#OME_banner, #AK_Step1_v11::#Pixorize::03_Pharm::11_Oncology::Etoposide,_Teniposide, #AK_Step1_v11::#SketchyBiochem::03_Molecular_Biology::01_DNA::02_DNA_Replication, #AK_Step1_v11::#SketchyPharm::08_Antineoplastics::02_Dna_&_Cellular_Division::04_Etoposide,_teniposide,_topotecan,_irinotecan
+markdown: false
+
+### Text
+Which enzyme is inhibited by <b>teniposide</b>?
+<div>
+  {{c1::topoisomerase II}}
+</div>
+
+### Extra
+<div>
+  specifically, inhibits the <u>religation</u> of breaks that
+  topoisomerase II first caused
+</div><img src="paste-1155346203120.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="paste-171519518965763.jpg">
+
+### Sketchy
+<img src="paste-376995049373697.jpg"><img src=
+"paste-6b01b2ac4f9c03fde9bf00e33779f280a3ba4881.png"> <img src=
+"DNA%20Replication.png"> <img src=
+"Screen%20Shot%202022-01-30%20at%209.48.05%20AM.png"> <a href=
+"https://dashboard.sketchy.com/study/medical/courses/medical-biochemistry/units/medical-biochemistry-molecular-biology/videos/medical-biochemistry-molecular-biology-dna-dna-replication?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">
+Watch DNA Replication</a> <a href=
+"https://dashboard.sketchy.com/study/medical/courses/medical-biochemistry/units/medical-biochemistry-molecular-biology/videos/medical-biochemistry-molecular-biology-dna-dna-replication?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">
+Watch Etoposide, teniposide, topotecan, irinotecan</a>
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

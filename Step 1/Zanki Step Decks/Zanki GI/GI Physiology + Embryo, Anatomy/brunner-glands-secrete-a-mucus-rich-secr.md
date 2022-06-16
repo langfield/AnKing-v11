@@ -1,0 +1,53 @@
+## Note
+nid: 1486608779650
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_GI::GI_Physiology_+_Embryo,_Anatomy, #AK_Step1_v11::#AMBOSS::Gastroenterology, #AK_Step1_v11::#B&B::09_GI::01_Anatomy::04_Gastrointestinal_Tract, #AK_Step1_v11::#FirstAid::09_Gastrointestinal::02_Anatomy::04_Digestive_Tract_Histology, #AK_Step1_v11::#FirstAid::09_Gastrointestinal::02_Anatomy::04_Digestive_Tract_Histology::Small_Intestine::Duodenum, #AK_Step1_v11::#OME::11_Gastrointestinal::01_Digestion_&_Absorption::08_Digestion_Phys, #AK_Step1_v11::#OME_banner::Clinical::03_Gastroenterology, #AK_Step1_v11::#Physeo::02_Anatomy::04_GI::05_Layers_of_the_Intestinal_Wall, #AK_Step1_v11::#UWorld::100-999::100-199::129, #AK_Step1_v11::^Other::^HighYield::3-HighYield-temporary, #AK_Step1_v11::^Systems::GI::histology
+markdown: false
+
+### Text
+<div>
+  <b>Brunner glands</b> secrete a <u>mucus-rich</u> secretion that
+  contains {{c1::HCO<sub>3</sub><sup>-</sup>}}
+</div>
+
+### Extra
+They also secrete CCK and secretin (like enteroendocrine cells)
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpfR0D4d.png"> <img src="tmp9V6ISy.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/gastroenterology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_6.png"></a>
+</div>
+
+### Additional Resources
+<b>Atlas:</b> Esophagus <img src="tmp9SBPX9.png"> Stomach <img src=
+"tmpDufSLy.png"> Small intestine <img src="tmp7qD3VU.png"> Colon
+<img src="tmpaCR0wu.png">
+
+### One by one
+

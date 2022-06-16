@@ -1,0 +1,52 @@
+## Note
+nid: 1473456823056
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Respiratory::Respiratory_Physiology, #AK_Step1_v11::#B&B::18_Pulm::01_Intro::01_Pulm_Embryology, #AK_Step1_v11::#B&B::18_Pulm::01_Intro::05_Pulm_Circulation, #AK_Step1_v11::#B&B::18_Pulm::01_Intro::06_Ventilation_&_Perfusion, #AK_Step1_v11::#Costanzo::Respiratory::07_Ventilation_Perfusion_Relationships, #AK_Step1_v11::#FirstAid::16_Respiratory::03_Physiology::11_Pulmonary_Circulation, #AK_Step1_v11::#FirstAid::16_Respiratory::03_Physiology::11_Pulmonary_Circulation::Pulmonary_Circulation_Physiology, #AK_Step1_v11::#OME_banner::Basic_Science::15_Pulmonary::11_Pulmonary_Circulation, #AK_Step1_v11::#Physeo::01_Embryology::03_Pulmonology::01_Respiratory_Embryology, #AK_Step1_v11::#Physeo::03_Physiology::03_Pulm::01_Pulmonary_&_Bronchopulmonary_Circulation, #AK_Step1_v11::#Physeo::03_Physiology::03_Pulm::08_V/Q_Mismatch_&_Integrated_Pulm, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Respiratory::Physiology
+markdown: false
+
+### Text
+<div>
+  <u>Decreased</u> <b>Po<sub>2</sub></b> (hypoxia) causes
+  vaso-{{c1::constriction}} in the <b>pulmonary</b>
+  <b>circulation</b>
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpyK7_FF.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonary/pulmonary-circulation/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_1.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

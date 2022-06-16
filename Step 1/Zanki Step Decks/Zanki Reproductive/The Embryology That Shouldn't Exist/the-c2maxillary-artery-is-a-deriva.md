@@ -1,0 +1,50 @@
+## Note
+nid: 1489113530157
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Reproductive::The_Embryology_That_Shouldnt_Exist, #AK_Step1_v11::#B&B::20_Repro::01_Embryology::07_Pharyngeal_Arches, #AK_Step1_v11::#FirstAid::07_Cardiovascular::01_Embryology::02_Aortic_Arch_Derivatives, #AK_Step1_v11::#FirstAid::07_Cardiovascular::01_Embryology::02_Aortic_Arch_Derivatives::Physiology, #AK_Step1_v11::#OME_banner, #AK_Step1_v11::#Physeo::01_Embryology::01_Repro::08_1st_&_2nd_Pharyngeal_Arches, #AK_Step1_v11::^Other::^EXPN::BGedit, #AK_Step1_v11::^Other::^EXPN::Uworld, #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step1_v11::^Systems::Reproductive::Embryology
+markdown: false
+
+### Text
+The <b>{{c2::maxillary}} artery</b> is a derivative of the
+<b>{{c1::1st}}</b> <b>aortic arch</b>
+
+### Extra
+<b>1</b>st arch is <b>max</b>imal<b>;</b> associated with the
+trigeminal nerve & the first pharnygeal arch
+<div><img src="paste-1036946839175669.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpTnCFV5.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

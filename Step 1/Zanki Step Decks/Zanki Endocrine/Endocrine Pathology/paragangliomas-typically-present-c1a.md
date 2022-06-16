@@ -1,0 +1,47 @@
+## Note
+nid: 1516032476117
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Endocrine::Endocrine_Pathology, #AK_Step1_v11::#FirstAid::08_Endocrine::04_Pathology::25_Pheochromocytoma, #AK_Step1_v11::#FirstAid::08_Endocrine::04_Pathology::25_Pheochromocytoma::Paraganglioma, #AK_Step1_v11::#OME_banner::Basic_Science::14_Endocrine, #AK_Step1_v11::^Other::^EXPN::BGadd, #AK_Step1_v11::^Other::^FA_Updates::FA2018, #AK_Step1_v11::^Other::^HighYield::5-LowYield, #AK_Step1_v11::^Systems::Endocrine::BGadds
+markdown: false
+
+### Text
+<b>Paragangliomas</b> typically present {{c1::asymptomatically}}
+
+### Extra
+only 3% of cases secretions of catecholamines are enough to be clinically significant
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/endocrine?ref=anki"><img src="_OME_AnkiFlashcards_Topic_4.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

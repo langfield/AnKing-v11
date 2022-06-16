@@ -1,0 +1,53 @@
+## Note
+nid: 1475200506347
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Renal::Renal_Physiology_+_Embryo,_Anatomy, #AK_Step1_v11::#B&B::19_Renal::02_Acid-Base::06_Metabolic_Acidosis, #AK_Step1_v11::#Costanzo::Renal::Ch.7_Acid_Base, #AK_Step1_v11::#FirstAid::14_Renal::03_Physiology::20_Acid-Base_Physiology::*Basics, #AK_Step1_v11::#FirstAid::14_Renal::03_Physiology::21_Acidosis_&_Alkalosis::Metabolic_Acidosis::*Basics, #AK_Step1_v11::#OME_banner::Basic_Science::12_Renal, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Renal::Physiology, #AK_Step1_v11::^Systems::Renal::Physiology::acidbase
+markdown: false
+
+### Text
+<div>
+  What is the <i>normal</i> average blood
+  <b>HCO<sub>3</sub><sup>-</sup> concentration</b> (mEq/L)?
+</div>
+<div>
+  {{c1::24 mEq/L}}
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpvW1H7d.png"> <img src="tmpiVwIlW.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/renal?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_6.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

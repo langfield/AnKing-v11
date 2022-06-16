@@ -1,0 +1,50 @@
+## Note
+nid: 1520900253563
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_GI::GI_Physiology_+_Embryo,_Anatomy, #AK_Step1_v11::#B&B::09_GI::01_Anatomy::02_Gastrointestinal_Anatomy, #AK_Step1_v11::#B&B::09_GI::01_Anatomy::07_Hernias, #AK_Step1_v11::#FirstAid::09_Gastrointestinal::02_Anatomy::05_Abdominal_Aorta_&_Branches::Iliac_Artery, #AK_Step1_v11::#FirstAid::11_Musculoskeletal_Skin_Connective_Tissue::01_Anatomy_&_Physiology::09_Lower_Extremity_Nerves::Vasculature::External_Iliac_Artery, #AK_Step1_v11::#OME_banner, #AK_Step1_v11::#Physeo::02_Anatomy::01_Cardio::03_Arteries_of_the_Lower_Body, #AK_Step1_v11::#UWorld::10000-99999::11000-11999::11764, #AK_Step1_v11::^Other::^EXPN::BGadd, #AK_Step1_v11::^Other::^EXPN::BGnonessentials, #AK_Step1_v11::^Other::^EXPN::Uworld, #AK_Step1_v11::^Other::^HighYield::5-LowYield, #AK_Step1_v11::^Systems::GI::BGadds
+markdown: false
+
+### Text
+The external iliac artery becomes the femoral artery as it crosses the {{c1::inguinal ligament}}
+
+### Extra
+Since the external iliac is retroperitoneal, arterial puncture
+during cardiac catheterization ABOVE the inguinal ligament can
+cause a retroperitoneal hematoma
+<div><img src="paste-33015413604353.jpg" class="resizer"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

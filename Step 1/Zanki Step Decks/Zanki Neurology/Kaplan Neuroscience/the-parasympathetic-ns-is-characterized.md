@@ -1,0 +1,51 @@
+## Note
+nid: 1479351974903
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Neurology::Kaplan_Neuroscience, #AK_Step1_v11::#FirstAid::05_Pharmacology::02_Autonomic_Drugs::01_Autonomic_Receptors::*Autonomic_Nervous_System, #AK_Step1_v11::#OME_banner::Clinical::10_Neurology, #AK_Step1_v11::#Osmosis::16_Neuro::01_Physiology::06_Parasympathetic_nervous_system, #AK_Step1_v11::^Systems::Neuro::ANS, #AK_Step1_v11::^Systems::Neuro::KaplanNeurology::01-Nervous_System_Organization, #AK_Step1_v11::^Systems::Neuro::neurology
+markdown: false
+
+### Text
+<div>
+  The <u>parasympathetic NS</u> is characterized by a(n)
+  <b>{{c1::craniosacral}} distribution</b> of parasympathetic
+  neurons
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmp1WT_Sf.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/neurology?ref=anki"><img src="_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

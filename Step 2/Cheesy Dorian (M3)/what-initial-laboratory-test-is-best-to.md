@@ -1,0 +1,51 @@
+## Note
+nid: 1500929959272
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::!Shelf::IM::no_dupes, #AK_Step2_v11::!Shelf::IM::no_dupes::only_step2, #AK_Step2_v11::#OME_banner::Basic_Science::14_Endocrine, #AK_Step2_v11::#Resources_by_rotation::IM::uw::endocrine_diabetes_metabolism::endocrine_diabetes_metabolism_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::endocrine_diabetes_metabolism::endocrine_diabetes_metabolism_zanki, #AK_Step2_v11::#Subjects::Endocrinology::04_Parathyroid_Gland::Hypercalcemia::Primary_Hyperparathyroidism, #AK_Step2_v11::#Subjects::Nephrology_&_Urology::01_Kidneys::Electrolyte_Imbalances_REDO, #AK_Step2_v11::#Subjects::Nephrology_&_Urology::01_Kidneys::Electrolyte_Imbalances_REDO::Calcium, #AK_Step2_v11::Original_decks::Dorian::im::uw::endocrine, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::Endocrine,_Diabetes,_&_Metabolism
+markdown: false
+
+### Text
+What <u>initial laboratory test</u> is best to help determine the
+<i>underlying etiology</i> of <b>hypercalcemia</b>?
+<div>
+  {{c1::PTH levels}}
+</div>
+
+### Extra
+<div><img src="diag%20hyper.png"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/endocrine?ref=anki"><img src="_OME_AnkiFlashcards_Topic_2.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

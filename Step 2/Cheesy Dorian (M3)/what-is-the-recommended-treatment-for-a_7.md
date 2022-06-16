@@ -1,0 +1,53 @@
+## Note
+nid: 1505420781158
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step1_v11::#OME_banner::Basic_Science::10_Musculoskeletal, #AK_Step1_v11::#Physeo::09_Pharm::09_Musculoskeletal::04_NSAIDs, #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::!Shelf::IM::no_dupes, #AK_Step2_v11::!Shelf::IM::no_dupes::only_step2, #AK_Step2_v11::#Resources_by_rotation::IM::uw::rheum/ortho::rheum/ortho_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::rheum/ortho::rheum/ortho_zanki, #AK_Step2_v11::#Subjects::Orthopedics_&_Rheumatology::02_Pathology::02_Joint::Osteoarthritis, #AK_Step2_v11::#Subjects::Orthopedics_&_Rheumatology::02_Pathology::02_Joint::Osteoarthritis::Management, #AK_Step2_v11::#UWorld::1000-9999::2000-2999::2305, #AK_Step2_v11::Original_decks::Dorian::im::uw::rheum/ortho, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::Rheum/Ortho
+markdown: false
+
+### Text
+What is the <i>recommended treatment</i> for a patient with
+<b>symptomatic</b> <b>osteoarthritis</b> despite a supervised
+exercise program and weight loss?
+<div>
+  {{c1::NSAIDs/acetaminophen}}
+</div>
+
+### Extra
+<img src="oa%20(1).png">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/musculoskeletal?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

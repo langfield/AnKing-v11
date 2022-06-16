@@ -1,0 +1,56 @@
+## Note
+nid: 1550409562238
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step2_v11::!Shelf::FM, #AK_Step2_v11::!Shelf::Neuro, #AK_Step2_v11::!Shelf::Peds, #AK_Step2_v11::#B&B::04_Neuro::04_Demyelinating_Disorders::02_Demyelinating_Disorders, #AK_Step2_v11::#OME_banner::Clinical::10_Neurology::09_Weakness, #AK_Step2_v11::#Resources_by_rotation::FM::ome::neuro::weakness, #AK_Step2_v11::#Resources_by_rotation::Neuro::ome::weakness, #AK_Step2_v11::#Resources_by_rotation::Peds::uworld::neuro::neuro_dorian, #AK_Step2_v11::#Subjects::Neurology::12_Demyelinating_Disorders::Guillain_Barre_Syndrome, #AK_Step2_v11::#Subjects::Neurology::12_Demyelinating_Disorders::Guillain_Barre_Syndrome::Pathophysiology, #AK_Step2_v11::Original_decks::Dorian::fam::ome::neuro::weakness, #AK_Step2_v11::Original_decks::Dorian::neuro::ome::weakness, #AK_Step2_v11::Original_decks::Dorian::peds::uw::neuro
+markdown: false
+
+### Text
+<b>CSF</b> analysis in <u>{{c1::Guillain-Barré}} syndrome</u> will
+reveal <b>{{c2::albuminocytologic}} dissociation</b>
+
+### Extra
+<i>↑ <font color="#FC0280">CSF protein</font> (Ig for immune
+reaction) without increase in cells</i>
+<div>
+  <i>"alpine" (albumin) due to increased permeability</i>
+</div>
+<div><img src=
+"paste-ae5f2dd03d305b1a64babf43cc85bf9c1ae9c331.png"><img src=
+"paste-185216169672705.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/neurology/weakness/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

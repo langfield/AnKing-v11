@@ -1,0 +1,60 @@
+## Note
+nid: 1476583223750
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Biochemistry::Vitamins, #AK_Step1_v11::#B&B::03_Biochem::04_Vitamins::03_Other_Vitamins, #AK_Step1_v11::#FirstAid::01_Biochemistry::05_Nutrition::04_Vitamin_A, #AK_Step1_v11::#FirstAid::01_Biochemistry::05_Nutrition::04_Vitamin_A::Deficiency, #AK_Step1_v11::#OME_banner::Basic_Science::02_Metabolism, #AK_Step1_v11::#Physeo::05_Biochem::05_Metabolism::38_Vitamin_A_-_Nutrition, #AK_Step1_v11::#Pixorize::02_Biochem::01_Vitamins::14_Vitamin_A_(Retinol)_Deficiency_&_Excess, #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step1_v11::^Systems::Biochem::vitamins
+markdown: false
+
+### Text
+<div>
+  <div>
+    <div>
+      <div>
+        What effect does <b>vitamin A</b> <u>deficiency</u> have on
+        the <b>immune</b> <b>system</b>?
+      </div>
+      <div>
+        {{c1::Immunosuppression}}
+      </div>
+    </div>
+  </div>
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpalfTiO.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/metabolism?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_1.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

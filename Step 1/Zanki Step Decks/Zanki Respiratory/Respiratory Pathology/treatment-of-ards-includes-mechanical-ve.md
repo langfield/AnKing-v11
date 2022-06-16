@@ -1,0 +1,60 @@
+## Note
+nid: 1473707412227
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Respiratory::Respiratory_Pathology, #AK_Step1_v11::#B&B::18_Pulm::03_Other::01_Pneumonia, #AK_Step1_v11::#FirstAid::16_Respiratory::04_Pathology::14_Acute_Respiratory_Distress_Syndrome, #AK_Step1_v11::#OME_banner::Clinical::02_Pulmonology::06_ARDS, #AK_Step1_v11::#Pathoma::09_Respiratory::07_Respiratory_Distress_Syndromes, #AK_Step1_v11::#Physeo::11_Pathology::03_Pulmonary_Pathology::13_ARDS, #AK_Step1_v11::#SketchyPath::03_Pulmonary::03_Acute_Lung_Disorders::02_Acute_Respiratory_Distress_Syndrome_(ARDS), #AK_Step1_v11::#UWorld::1000-9999::1000-1999::1579, #AK_Step1_v11::#UWorld::1000-9999::7000-7999::7661, #AK_Step1_v11::#UWorld::10000-99999::19000-19999::19919, #AK_Step1_v11::^Other::^EXPN::BGedit, #AK_Step1_v11::^Other::^EXPN::MedBullets, #AK_Step1_v11::^Other::^FA_Updates::FA2018, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Respiratory::Pathology, #AK_Step2_v11::#AMBOSS, #AK_Step2_v11::#AMBOSS::IM, #AK_Step2_v11::#AMBOSS::Surgery, #AK_Step2_v11::#B&B::07_Pulmonary::02_Critical_Care::02_Respiratory_Failure, #AK_Step2_v11::#B&B::07_Pulmonary::02_Critical_Care::03_Sepsis_ARDS
+markdown: false
+
+### Text
+<div>
+  Treatment of <b>ARDS</b> includes <u>mechanical ventilation</u>
+  with <b>{{c2::positive end-expiratory pressure (PEEP)}}</b>
+  andmost importantly <b>{{c1::low}} tidal volumes</b>
+</div>
+
+### Extra
+<div>
+  <i>- Low tidal volume (4-6 mL/kg ideal body weight); high tidal
+  volume can result in volutrauma</i>
+</div><i>- Positive PEEP helps</i> <i>prevent collapse of alveolar
+air sacs at end-expiration; additionally recruits collapsed alveoli
+which increases FRC and decreases shunting</i>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="paste-751013686412122.jpg">
+
+### Sketchy
+<img src="Screen%20Shot%202019-10-21%20at%208.17.59%20AM.png">
+<img src="Screen%20Shot%202019-12-29%20at%2011.25.30%20AM.JPG">
+<a href=
+"https://dashboard.sketchy.com/study/medical/courses/medical-pathophysiology/units/medical-pathophysiology-pulmonary/videos/medical-pathophysiology-pulmonary-acute-lung-disorders-acute-respiratory-distress-syndrome-ards?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">
+Watch Acute Respiratory Distress Syndrome (ARDS)</a>
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonology/ards/acquire?ref=anki"><img src="_OME_AnkiFlashcards_Lesson_2.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

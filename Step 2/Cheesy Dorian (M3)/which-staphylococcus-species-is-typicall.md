@@ -1,0 +1,55 @@
+## Note
+nid: 1494894762461
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!Shelf::#Cards_AnKing_Did::1surgery, #AK_Step2_v11::!Shelf::Surgery::no_dupes, #AK_Step2_v11::!Shelf::Surgery::no_dupes::only_step2, #AK_Step2_v11::#OME_banner::Clinical::20_Primer:_Methods_for_Success, #AK_Step2_v11::#Resources_by_rotation::Surgery::uworld::dorian, #AK_Step2_v11::#Resources_by_rotation::Surgery::uworld::zanki, #AK_Step2_v11::#Subjects::Microbiology::01_Bacteria::01_Gram_Positive_Cocci::Staph_Aureus, #AK_Step2_v11::#Subjects::Microbiology::01_Bacteria::01_Gram_Positive_Cocci::Staph_Aureus::Septic_Arthritis, #AK_Step2_v11::Original_decks::Dorian::surg::uw, #AK_Step2_v11::Original_decks::Zanki_Step_2::Surgery
+markdown: false
+
+### Text
+Which <i>Staphylococcus</i> species is typically the cause of
+<u>acute-onset</u> (< 3 months) <b>prosthetic joint
+infection</b>?
+<div>
+  {{c1::<i>S. aureus</i>}}
+</div>
+
+### Extra
+<i>infections are due to</i> <b style="font-style: italic;">more
+virulent organisms</b> <i>and present with</i> <b style=
+"font-style: italic;">acute pain</b>
+<div><img src="PJI.png"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/surgery?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

@@ -1,0 +1,55 @@
+## Note
+nid: 1463334127558
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Reproductive::Reproductive_Pathology, #AK_Step1_v11::#FirstAid::15_Repro::04_Pathology::37_Epididymitis_&_Orchitis, #AK_Step1_v11::#FirstAid::15_Repro::04_Pathology::37_Epididymitis_&_Orchitis::Orchitis, #AK_Step1_v11::#OME_banner, #AK_Step1_v11::#Pathoma::14_Male::02_Testicle, #AK_Step1_v11::#Physeo::11_Pathology::09_Reproductive_Pathology::02_Testicle, #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step1_v11::^Systems::Reproductive::MaleReproductive, #AK_Step1_v11::^Systems::Reproductive::Pathology
+markdown: false
+
+### Text
+<div>
+  <div>
+    <div>
+      Common <i>infectious</i> causes of <b>orchitis</b> in
+      <u>older adults</u> include <i>{{c1::E. coli}}</i> and
+      <i>{{c1::Pseudomonas}}</i>
+    </div>
+  </div>
+</div>
+
+### Extra
+<i>due to</i> <b style="font-style: italic;">UTI</b>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpCFgRcA.png"> <img src="tmpqghiAq.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

@@ -1,0 +1,54 @@
+## Note
+nid: 1555543404189
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::Potential_duplicates, #AK_Step2_v11::!Shelf::IM, #AK_Step2_v11::!Shelf::Peds, #AK_Step2_v11::#OME_banner, #AK_Step2_v11::#Resources_by_rotation::IM::emma, #AK_Step2_v11::#Resources_by_rotation::Peds::emma, #AK_Step2_v11::#Resources_by_rotation::Peds::uworld::heme/onc::heme/onc_dorian, #AK_Step2_v11::#Subjects::Hematology::02_RBC::01_Microcytic_Anemia::Iron_Deficiency, #AK_Step2_v11::#Subjects::Hematology::02_RBC::01_Microcytic_Anemia::Iron_Deficiency::Pathophysiology, #AK_Step2_v11::#Subjects::Hematology::02_RBC::01_Microcytic_Anemia::Thalassemia, #AK_Step2_v11::#Subjects::Hematology::02_RBC::01_Microcytic_Anemia::Thalassemia::Pathophysiology, #AK_Step2_v11::Original_decks::Dorian::im::emma, #AK_Step2_v11::Original_decks::Dorian::peds::emma, #AK_Step2_v11::Original_decks::Dorian::peds::uw::heme/onc
+markdown: false
+
+### Text
+Thalassemia = {{c1::↓↓}} MCV and {{c1::↑}} iron levels
+
+### Extra
+<div>
+  <i>Due to increased RBC turnover (differentiate with iron
+  deficiency anemia)</i>
+  <div style="font-weight: bold;">
+    <div><img src="paste-3999671114530819.jpg"></div>
+  </div>
+</div>
+<div><img src="paste-619188255195137.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

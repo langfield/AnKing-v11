@@ -1,0 +1,55 @@
+## Note
+nid: 1577829346128
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step1_v11::#NBME::29, #AK_Step2_v11::!FLAG_THESE_CARDS::Potential_duplicates, #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::#OME_banner::Basic_Science::03_Genetics, #AK_Step2_v11::#Resources_by_rotation::ObGyn::nbme, #AK_Step2_v11::#Subjects::Obstetrics_&_Gynecology::01_Gynecology::Menopause::Vaginal_Atrophy, #AK_Step2_v11::Original_decks::Dorian::obgyn::nbme
+markdown: false
+
+### Text
+<div>
+  How can breastfeeding lead to vaginal atrophy?
+</div>
+<div>
+  {{c1::Breastfeeding (↑ prolactin) → ↓ GnRH → ↓ LH and ↓ FSH → ↓
+  estrogen → vaginal dryness (atrophy)}}
+</div>
+
+### Extra
+This short-term dyspareunia can be managed with lube
+<div><img src=
+"fc35947284ecc475e8bd31b5c868ff1acd86dd33_tmpmklrs9.png"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/obgyn?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_4.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

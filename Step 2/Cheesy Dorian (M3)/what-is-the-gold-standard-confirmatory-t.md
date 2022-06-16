@@ -1,0 +1,58 @@
+## Note
+nid: 1556909338894
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!Shelf::#Cards_AnKing_Did::1surgery, #AK_Step2_v11::!Shelf::IM::no_dupes, #AK_Step2_v11::!Shelf::IM::no_dupes::only_step2, #AK_Step2_v11::!Shelf::Surgery::no_dupes, #AK_Step2_v11::!Shelf::Surgery::no_dupes::only_step2, #AK_Step2_v11::#OME_banner::Clinical::20_Primer:_Methods_for_Success, #AK_Step2_v11::#Resources_by_rotation::IM::uw::heme/onc::heme/onc_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::heme/onc::heme/onc_zanki, #AK_Step2_v11::#Resources_by_rotation::Surgery::uworld::dorian, #AK_Step2_v11::#Subjects::Hematology::01_Hemostasis::03_Other_Disorders_of_Hemostasis::Heparin_Induced_Thrombocytopenia, #AK_Step2_v11::Original_decks::Dorian::im::uw::heme/onc, #AK_Step2_v11::Original_decks::Dorian::surg::uw, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::HemeOnc
+markdown: false
+
+### Text
+What is the gold standard confirmatory test for <b>heparin-induced
+thrombocytopenia</b>?
+<div>
+  {{c1::Serotonin release assay}}
+</div>
+
+### Extra
+<div>
+  <i>d/c heparin, start direct thrombin inhibitor (agatroban) or
+  fondaparinux or leparudin</i>
+</div><i><img src="type%202%20hit.png" class="resizer"></i>
+<div>
+  <i><img src="paste-721799318864362.jpg" class="resizer"><img src=
+  "paste-719849403711976.jpg" class="resizer"></i>
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/surgery?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

@@ -1,0 +1,55 @@
+## Note
+nid: 1473995444571
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Hematology_&_Oncology::Pathoma_Hematology, #AK_Step1_v11::#B&B::11_Hematology::01_Hemostasis::01_Coagulation, #AK_Step1_v11::#FirstAid::10_Hematology_Oncology::03_Physiology::05_Coagulation_&_Kinin_Pathways, #AK_Step1_v11::#FirstAid::10_Hematology_Oncology::03_Physiology::05_Coagulation_&_Kinin_Pathways::Coagulation_Cascade, #AK_Step1_v11::#FirstAid::10_Hematology_Oncology::04_Pathology::16_Coagulation_Disorders::*Coagulation_Cascade, #AK_Step1_v11::#OME_banner::Basic_Science::13_Hematology_Oncology::11_Hemostasis, #AK_Step1_v11::#Pathoma::04_Hemostasis::02_Secondary_Hemostasis_&_Related_Disorders, #AK_Step1_v11::#Physeo::11_Pathology::10_HemeOnc_Pathology::02_Secondary_Hemostasis, #AK_Step1_v11::^Other::^EXPN::BGedit, #AK_Step1_v11::^Other::^EXPN::Uworld, #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step1_v11::^Systems::HemeOnc::Hematology
+markdown: false
+
+### Text
+<div>
+  After <b>fibrin</b> is formed from fibrinogen, it is
+  <b>{{c1::cross-linked}}</b> by <b>factor {{c2::XIII}}</b>
+  yielding a <i>stable</i> <b>platelet-fibrin thrombus</b>
+</div>
+
+### Extra
+A factor XIII deficiency causes spontaneous or excessive bleeding,
+but does <b>NOT</b> prolong <u>BT, PT, PTT, OR TT</u>
+<div><img src="paste-48245367635969.jpg"></div>
+<div><img src="paste-47278999994369.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpeuwV2Y.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/heme-onc/hemostasis/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

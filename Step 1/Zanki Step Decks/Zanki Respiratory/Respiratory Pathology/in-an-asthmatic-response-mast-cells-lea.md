@@ -1,0 +1,59 @@
+## Note
+nid: 1473628116213
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Respiratory::Respiratory_Pathology, #AK_Step1_v11::#B&B::18_Pulm::02_Obstructive_&_Restrictive_Diseases::04_Treatment_of_COPD_&_Asthma, #AK_Step1_v11::#FirstAid::16_Respiratory::04_Pathology::08_Obstructive_Lung_Diseases::Asthma, #AK_Step1_v11::#NBME::16, #AK_Step1_v11::#OME_banner::Clinical::02_Pulmonology::01_Asthma, #AK_Step1_v11::#Pathoma::09_Respiratory::04_Chronic_Obstructive_Pulmonary_Disease, #AK_Step1_v11::#Physeo::11_Pathology::03_Pulmonary_Pathology::07_Obstructive_Lung_Diseases, #AK_Step1_v11::#SketchyPath::03_Pulmonary::01_Obstructive_Lung_Disease::02_Asthma_&_Bronchiectasis, #AK_Step1_v11::#UWorld::#UWSA1, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Respiratory::Pathology
+markdown: false
+
+### Text
+<div>
+  In an <b>asthmatic response</b>, <b>mast cells</b> lead to
+  <u>generation</u> of <b>leukotrienes</b> <b>{{c1::C4}}</b>,
+  <b>{{c1::D4}}</b>, and <b>{{c1::E4}}</b> (early-phase reaction)
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpkkWKcb.png"> <img src="tmpnuTwFC.png">
+
+### Sketchy
+<img src=
+"Screen%20Shot%202019-12-24%20at%204.32.21%20PM.JPG"><img src=
+"Screen%20Shot%202019-12-24%20at%204.32.30%20PM.JPG"> <img src=
+"Screen%20Shot%202019-12-29%20at%2011.34.04%20AM.JPG"> <a href=
+"https://dashboard.sketchy.com/study/medical/courses/medical-pathophysiology/units/medical-pathophysiology-pulmonary/videos/medical-pathophysiology-pulmonary-obstructive-lung-disease-asthma-and-bronchiectasis?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">
+Watch Asthma & Bronchiectasis</a>
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonology/asthma/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_3.png"></a>
+</div>
+
+### Additional Resources
+<img src=
+"Screen%20Shot%202019-10-10%20at%208.17.24%20AM.png"><img src=
+"Screen%20Shot%202019-10-10%20at%208.17.30%20AM.png">
+
+### One by one
+

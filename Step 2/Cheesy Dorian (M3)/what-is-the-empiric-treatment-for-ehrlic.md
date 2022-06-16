@@ -1,0 +1,55 @@
+## Note
+nid: 1555460680897
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step1_v11::#NBME::30, #AK_Step2_v11::!FLAG_THESE_CARDS::Potential_duplicates, #AK_Step2_v11::!Shelf::IM, #AK_Step2_v11::#OME_banner::Clinical::06_Infectious_Disease, #AK_Step2_v11::#Resources_by_rotation::IM::emma, #AK_Step2_v11::#Resources_by_rotation::IM::uw::infectious_disease::infectious_disease_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::infectious_disease::infectious_disease_zanki, #AK_Step2_v11::#Subjects::Microbiology::01_Bacteria::07_Zoonotics_&_Tick_Borne_Bacteria::Ehrlichiosis, #AK_Step2_v11::Original_decks::Dorian::im::emma, #AK_Step2_v11::Original_decks::Dorian::im::uw::infectious_dz, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::ID
+markdown: false
+
+### Text
+What is the <i>empiric treatment</i> for <b>ehrlichiosis</b>?
+<div>
+  {{c1::Doxycycline}}
+</div>
+
+### Extra
+<div>
+  <i>dogs in the lone star state</i>
+</div><i><img src="erlichmyballs.png"></i>
+<div style="font-weight: bold;">
+  <b><i><img src="paste-2753774116405249.jpg"></i></b>
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/infectious-disease?ref=anki"><img src="_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

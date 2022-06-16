@@ -1,0 +1,57 @@
+## Note
+nid: 1496529344530
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step2_v11::!Shelf::IM, #AK_Step2_v11::#OME_banner, #AK_Step2_v11::#Resources_by_rotation::IM::uw::pulm_critical_care::pulm_critical_care_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::pulm_critical_care::pulm_critical_care_zanki, #AK_Step2_v11::#Subjects::Endocrinology::02_Pituitary_Gland::Posterior_Pituitary::SIADH, #AK_Step2_v11::#Subjects::Endocrinology::02_Pituitary_Gland::Posterior_Pituitary::SIADH::Pathophysiology, #AK_Step2_v11::Original_decks::Dorian::im::uw::pulm_cc, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::Pulm_&_Critical_Care
+markdown: false
+
+### Text
+What is the likely <i>diagnosis</i> in a <u>euvolemic patient</u>
+with <b>low serum osmolality</b> and <b>high urine osmolality</b>?
+<div>
+  {{c1::SIADH}}
+</div>
+
+### Extra
+<div>
+  <i>commonly precipitated by <b>pulmonary pathologies</b>;
+  hyponatremia may <b><u>worsen</u> with saline infusion</b> <b>due
+  to free water retention</b> - urine osmolality <b>></b> serum
+  osmolality due to excessive retention of water.</i>
+</div><img src="Hyponatremia.png"><img src=
+"paste-187737315475457_1358629116483.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_7.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

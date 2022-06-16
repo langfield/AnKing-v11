@@ -1,0 +1,58 @@
+## Note
+nid: 1502844358075
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step2_v11::!Shelf::IM, #AK_Step2_v11::#OME_banner::Basic_Science::12_Renal, #AK_Step2_v11::#Resources_by_rotation::IM::uw::endocrine_diabetes_metabolism::endocrine_diabetes_metabolism_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::endocrine_diabetes_metabolism::endocrine_diabetes_metabolism_zanki, #AK_Step2_v11::#Resources_by_rotation::IM::uw::renal::renal_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::renal::renal_zanki, #AK_Step2_v11::#Subjects::Nephrology_&_Urology::01_Kidneys::Acid_Base_Disorders::Metabolic_Alkalosis, #AK_Step2_v11::#Subjects::Nephrology_&_Urology::01_Kidneys::Acid_Base_Disorders::Respiratory_Alkalosis, #AK_Step2_v11::#Subjects::Nephrology_&_Urology::01_Kidneys::Electrolyte_Imbalances_REDO, #AK_Step2_v11::#Subjects::Nephrology_&_Urology::01_Kidneys::Electrolyte_Imbalances_REDO::Calcium, #AK_Step2_v11::Original_decks::Dorian::im::uw::endocrine, #AK_Step2_v11::Original_decks::Dorian::im::uw::renal, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::Endocrine,_Diabetes,_&_Metabolism, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::Renal
+markdown: false
+
+### Text
+How do <u>ionized Ca</u><sup>2+</sup> levels change in a patient
+with <b>respiratory</b> or <b>metabolic</b> <b>alkalosis</b>?
+<div>
+  {{c1::Decreased ionized Ca<sup>2+</sup>}}
+</div>
+
+### Extra
+<i>e.g. in the context of a <b>PE;</b> due to <b>dissociation of
+hydrogen ions from albumin</b>, allowing more Ca<sup>2+</sup> to
+bind (the opposite occurs with acidosis)</i>
+<div>
+  <div>
+    <i><img src="makes%20sense.png"></i>
+  </div>
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/renal?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_1.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

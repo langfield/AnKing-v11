@@ -1,0 +1,51 @@
+## Note
+nid: 1473732889878
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Respiratory::Respiratory_Pathology, #AK_Step1_v11::#B&B::18_Pulm::03_Other::03_Lung_Cancer, #AK_Step1_v11::#FirstAid::04_Pathology::03_Neoplasia::10_Carcinogens, #AK_Step1_v11::#FirstAid::04_Pathology::03_Neoplasia::10_Carcinogens::Radon, #AK_Step1_v11::#FirstAid::16_Respiratory::04_Pathology::24_Lung_Cancer, #AK_Step1_v11::#FirstAid::16_Respiratory::04_Pathology::24_Lung_Cancer::*Basics, #AK_Step1_v11::#OME_banner::Clinical::02_Pulmonology::02_Lung_Cancer, #AK_Step1_v11::#Pathoma::09_Respiratory::08_Lung_Cancer, #AK_Step1_v11::#Physeo::11_Pathology::03_Pulmonary_Pathology::20_Lung_Cancer, #AK_Step1_v11::#Physeo::11_Pathology::07_General_Pathology::09_Carcinogenesis, #AK_Step1_v11::^Other::^HighYield::4-LowerYield, #AK_Step1_v11::^Systems::Respiratory::Pathology
+markdown: false
+
+### Text
+<div>
+  <b>Radon</b> accumulates in <u>closed spaces</u>, such as
+  {{c1::basements}}
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpCHkHpU.png">
+
+### Sketchy
+<img src="paste-d98b772028437a9cda4efc939413db479ba31020.jpg">
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonology/lung-cancer/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

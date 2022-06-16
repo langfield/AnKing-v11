@@ -1,0 +1,52 @@
+## Note
+nid: 1479267449622
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Hematology_&_Oncology::RBC_Misc., #AK_Step1_v11::#FirstAid::10_Hematology_Oncology::02_Anatomy::08_Basophils, #AK_Step1_v11::#OME_banner::Basic_Science::07_Immunology, #AK_Step1_v11::#Pixorize::01_Immunology::03_Other_Cell_Types::04_Basophils, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::HemeOnc::RBC::Anatomy
+markdown: false
+
+### Text
+<div>
+  The granules of <b>basophils</b> contain {{c1::<u>heparin</u>}}
+  and {{c2::<u>histamine</u>}} (anticoagulant and vasodilator,
+  respectively)
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpTafyMm.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/immunology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_6.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

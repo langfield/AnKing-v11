@@ -1,0 +1,52 @@
+## Note
+nid: 1539213338927
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step2_v11::!Shelf::FM, #AK_Step2_v11::!Shelf::Peds, #AK_Step2_v11::#OME_banner::Clinical::11_Pediatrics::12_Peds_Infectious_Rashes, #AK_Step2_v11::#Resources_by_rotation::FM::ome::peds::infectious_rashes, #AK_Step2_v11::#Resources_by_rotation::Peds::emma, #AK_Step2_v11::#Resources_by_rotation::Peds::ome::peds_infectious_rashes, #AK_Step2_v11::#Subjects::Gastroenterology::02_Oral_Cavity::Herpangina, #AK_Step2_v11::#Subjects::Microbiology::02_Viruses::RNA_Viruses::Positive_Sense::Coxsackieviruses_(A_&_B), #AK_Step2_v11::#Subjects::Microbiology::02_Viruses::RNA_Viruses::Positive_Sense::Coxsackieviruses_(A_&_B)::Herpangina, #AK_Step2_v11::Original_decks::Dorian::fam::ome::peds::infectious_rashes, #AK_Step2_v11::Original_decks::Dorian::peds::emma, #AK_Step2_v11::Original_decks::Dorian::peds::ome::peds_infectious_rashes
+markdown: false
+
+### Text
+<b>{{c2::Coxsackie A}}</b> is a <u>virus</u> that causes
+<b>{{c1::hand-foot-and-mouth}} disease</b>
+<div>
+  <b><img src="paste-11656541241796.jpg"></b>
+</div>
+
+### Extra
+<img src="paste-9779640533471.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pediatrics/peds-infectious-rashes/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_1.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

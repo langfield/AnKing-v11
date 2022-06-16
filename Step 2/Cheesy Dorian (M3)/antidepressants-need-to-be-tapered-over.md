@@ -1,0 +1,53 @@
+## Note
+nid: 1528053763775
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step1_v11::#OME_banner, #AK_Step1_v11::#Physeo::09_Pharm::13_Psychiatric::29_Antidepressant_Discontinuation_Syndrome, #AK_Step2_v11::!FLAG_THESE_CARDS::Potential_duplicates, #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::#Resources_by_rotation::Psych::uworld::dorian, #AK_Step2_v11::#Subjects::Psychiatry::05_Mood_Disorders::Major_Depressive_Disorder::Management::*Antidepressant_Discontinuation_Syndrome, #AK_Step2_v11::Original_decks::Dorian::psych::uw
+markdown: false
+
+### Text
+Antidepressants need to be <i>tapered over 6-8 weeks</i> to avoid
+{{c1::<b>antidepressant discontinuation syndrome</b>}}, which may
+produce <u>flu-like symptoms</u>, <u>headache</u>, <u>nausea</u>,
+<u>insomnia,</u> and <u>myalgias</u>
+
+### Extra
+<div>
+  <i>Occurs in 20% of pt following sudden discontinuation of an
+  antidepressant that has been taken for more than 6 weeks</i>
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_4.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

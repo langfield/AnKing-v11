@@ -1,0 +1,57 @@
+## Note
+nid: 1473707444911
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Respiratory::Respiratory_Pathology, #AK_Step1_v11::#B&B::18_Pulm::01_Intro::02_Pulm_Anatomy, #AK_Step1_v11::#FirstAid::16_Respiratory::01_Embryology::05_Neonatal_Respiratory_Distress_Syndrome, #AK_Step1_v11::#FirstAid::16_Respiratory::01_Embryology::05_Neonatal_Respiratory_Distress_Syndrome::Surfactant, #AK_Step1_v11::#OME_banner::Clinical::02_Pulmonology, #AK_Step1_v11::#Pathoma::09_Respiratory::07_Respiratory_Distress_Syndromes, #AK_Step1_v11::#Physeo::02_Anatomy::02_Pulmonology::01_Overview_of_Respiratory_Anatomy, #AK_Step1_v11::#UWorld::100-999::800-899::800, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Respiratory::Pathology, #AK_Step2_v11::!Shelf::Peds::no_dupes, #AK_Step2_v11::#Resources_by_rotation::Peds::emma, #AK_Step2_v11::Original_decks::Dorian::peds::emma
+markdown: false
+
+### Text
+<div>
+  The <b style=
+  "font-weight: bold;">{{c1::lecithin}}:</b><b>{{c2::sphingomyelin}}
+  ratio</b> in amniotic fluid is used to <u>screen</u> for
+  <b>{{c3::lung}} maturity</b>
+</div>
+
+### Extra
+<i>lecithin is also known as phosphatidylcholine</i>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmp_vhk7z.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_3.png"></a>
+</div>
+
+### Additional Resources
+<div>
+  <i>L/S Ratio > 2 = mature</i>
+</div><img src="paste-4585423049326593.jpg" style="" class=
+"resizer"><img src="paste-1711432798306305.jpg" style="" class=
+"resizer">
+
+### One by one
+

@@ -1,0 +1,51 @@
+## Note
+nid: 1521226027066
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Lolnotacop::Etc::UW_Micro_(do_this_one_last), #AK_Step1_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step1_v11::#B&B::20_Repro::02_Pregnancy::09_TORCH_Infections, #AK_Step1_v11::#FirstAid::03_Microbiology::05_Virology::08_DNA_Viruses::Cytomegalovirus, #AK_Step1_v11::#FirstAid::03_Microbiology::05_Virology::09_Herpesviruses::Cytomegalovirus, #AK_Step1_v11::#FirstAid::03_Microbiology::06_Systems::11_TORCH_Infections, #AK_Step1_v11::#OME_banner, #AK_Step1_v11::#SketchyMicro::uw_micro_(do_this_one_last)
+markdown: false
+
+### Text
+Which <u>ocular complication</u> is associated with <b>congenital
+CMV</b>?
+<div>
+  {{c1::Chorioretinitis}}
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

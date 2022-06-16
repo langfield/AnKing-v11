@@ -1,0 +1,63 @@
+## Note
+nid: 1549122919197
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step1_v11::#OME_banner::Clinical::13_Gynecology, #AK_Step1_v11::#Physeo::11_Pathology::09_Reproductive_Pathology::13_Polycystic_Ovarian_Syndrome, #AK_Step2_v11::!FLAG_THESE_CARDS::Potential_duplicates, #AK_Step2_v11::!Shelf::FM, #AK_Step2_v11::!Shelf::IM, #AK_Step2_v11::!Shelf::ObGyn, #AK_Step2_v11::#B&B::06_ObGyn::Gyne::04_Secondary_Amenorrhea, #AK_Step2_v11::#OME::14_Gynecology::18_Virilization, #AK_Step2_v11::#Resources_by_rotation::FM::ome::gyn::virilization, #AK_Step2_v11::#Resources_by_rotation::IM::uw::endocrine_diabetes_metabolism::endocrine_diabetes_metabolism_dorian, #AK_Step2_v11::#Resources_by_rotation::IM::uw::endocrine_diabetes_metabolism::endocrine_diabetes_metabolism_zanki, #AK_Step2_v11::#Resources_by_rotation::ObGyn::ome::gyn::virillization, #AK_Step2_v11::#Subjects::Obstetrics_&_Gynecology::01_Gynecology::Ovary::PCOS, #AK_Step2_v11::#Subjects::Obstetrics_&_Gynecology::01_Gynecology::Ovary::PCOS::Management, #AK_Step2_v11::$AnKingUpdates::$Errata::v10-minor_text_changes, #AK_Step2_v11::Original_decks::Dorian::fam::ome::gyn::virilization, #AK_Step2_v11::Original_decks::Dorian::im::uw::endocrine, #AK_Step2_v11::Original_decks::Dorian::obgyn::ome::gyn::virillization, #AK_Step2_v11::Original_decks::Zanki_Step_2::IM::Endocrine,_Diabetes,_&_Metabolism
+markdown: false
+
+### Text
+What is the <i>first-line treatment</i> for <u>infertility</u> or
+<u>irregular menstrual cycles</u> in patients with <b>polycystic
+ovarian syndrome</b>?
+<div>
+  {{c1::Weight loss and <b>OCPs</b>}}
+</div>
+
+### Extra
+<div>
+  <div>
+    <i>- Helps restore ovulatory cycles</i>
+  </div>
+  <div>
+    <i>- OCPs <b>reduce hyperandrogenism</b> with (-) feedback
+    causing ↓ LH and ↓ androgen production and antagonism of
+    androgen receptors</i>
+  </div>
+</div><img src="pcos_1606536512074.png" class="" style=
+"height: 368px; width: 529px;">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/gynecology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_1.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

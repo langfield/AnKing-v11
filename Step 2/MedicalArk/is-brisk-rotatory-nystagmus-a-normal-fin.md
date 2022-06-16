@@ -1,0 +1,58 @@
+## Note
+nid: 1584317290962
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::MedicalArk, #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::!Shelf::IM::no_dupes, #AK_Step2_v11::!Shelf::IM::no_dupes::only_step2, #AK_Step2_v11::#OME_banner, #AK_Step2_v11::#Resources_by_rotation::IM::amboss_medicalark, #AK_Step2_v11::#Subjects::Neurology::02_Eye::*Vision::*Vision_Assessment, #AK_Step2_v11::#Subjects::Psychiatry::*Geriatrics, #AK_Step2_v11::Original_decks::MedicalArk::im::amboss
+markdown: false
+
+### Text
+Is <i>brisk rotatory nystagmus</i> a normal finding in <b>elderly
+patients</b>?
+<div>
+  {{c1::No}}
+</div>
+
+### Extra
+<div>
+  This refers specifically to brisk rotatory nystagmus on lateral
+  gaze
+</div>Warrants further evaluation
+<div>
+  Horizontal nystagmus would be a normal finding in patients with
+  BPPV
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_7.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

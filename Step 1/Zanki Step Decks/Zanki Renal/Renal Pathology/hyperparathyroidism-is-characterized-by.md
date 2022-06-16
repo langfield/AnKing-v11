@@ -1,0 +1,73 @@
+## Note
+nid: 1475453489899
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Renal::Renal_Pathology, #AK_Step1_v11::#B&B::08_Endocrinology::05_Other::02_Parathyroid_Glands, #AK_Step1_v11::#B&B::14_MSK::03_Pathology::01_Bone_Disorders, #AK_Step1_v11::#B&B::19_Renal::04_Diseases_of_the_Nephron::06_Renal_Failure, #AK_Step1_v11::#FirstAid::14_Renal::04_Pathology::16_Consequences_of_Renal_Failure::Secondary_Hyperparathyroidism, #AK_Step1_v11::#FirstAid::14_Renal::04_Pathology::17_Renal_Osteodystrophy, #AK_Step1_v11::#OME_banner::Clinical::07_Endocrinology, #AK_Step1_v11::#Pathoma::12_Renal::07_Chronic_Renal_Failure, #AK_Step1_v11::#Physeo::11_Pathology::08_Renal_Pathology::02_Chronic_Renal_Failure, #AK_Step1_v11::#SketchyPath::07_Endocrine::04_Thyroid_&_Parathyroid::05_Parathyroid_Gland_Disorders, #AK_Step1_v11::#UWorld::100-999::600-699::631, #AK_Step1_v11::#UWorld::10000-99999::19000-19999::19947, #AK_Step1_v11::^Other::^EXPN::BGedit, #AK_Step1_v11::^Other::^EXPN::Uworld, #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step1_v11::^Systems::Renal::Pathology, #AK_Step2_v11::#AMBOSS, #AK_Step2_v11::#AMBOSS::IM
+markdown: false
+
+### Text
+<div>
+  <b>Hyperparathyroidism</b> is characterized by
+  {{c1::subperiosteal}} <u>thinning</u> of bones
+</div>
+
+### Extra
+<div>
+  the skeletal findings in hyper PTH most commonly involve the
+  cortical bone in the appendicular skeleton (pectoral / pelvic
+  girdle, limbs); subperiosteal thinning is a characteristic
+  feature and appears radiologically as:
+</div>
+<div>
+  - subperiosteal erosions in the phalanges of the hand
+</div>
+<div>
+  - granular "salt and pepper" skull
+</div>
+<div>
+  - osteolytic cysts (brown tumors) in the long bones (osteitis
+  fibrosa cystica)
+</div>
+<div><img src="paste-127487514247714.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpmVAOnQ.png">
+
+### Sketchy
+<div>
+  * due to increased PTH resorbing bone
+</div>
+<div><img src="subperiosteal%20thinning.jpg"><img src=
+"Screen%20Shot%202020-03-30%20at%209.19.26%20PM.JPG"><img src=
+"Zoverall%20picture-bd830c7fd8feb169533f12642e9419642ce7ea5f_1566160514431.JPG"></div><a href="https://dashboard.sketchy.com/study/medical/courses/medical-pathophysiology/units/medical-pathophysiology-endocrine/videos/medical-pathophysiology-endocrine-thyroid-and-parathyroid-parathyroid-gland-disorders?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">Watch
+Parathyroid Gland Disorders</a>
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/endocrinology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

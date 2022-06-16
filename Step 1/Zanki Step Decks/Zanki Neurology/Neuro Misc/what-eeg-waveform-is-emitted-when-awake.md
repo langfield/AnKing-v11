@@ -1,0 +1,58 @@
+## Note
+nid: 1484016626142
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Neurology::Neuro_Misc, #AK_Step1_v11::#B&B::17_Psych::02_Pathology::13_Sleep_Disorders, #AK_Step1_v11::#FirstAid::12_Neuro_&_Special_Senses::02_Anatomy_&_Physiology::15_Sleep_Physiology, #AK_Step1_v11::#FirstAid::12_Neuro_&_Special_Senses::02_Anatomy_&_Physiology::15_Sleep_Physiology::Awake, #AK_Step1_v11::#OME_banner::Clinical::12_Psychiatry::18_Sleep_Physiology, #AK_Step1_v11::#Physeo::07_Psychiatry::02_Psychiatry::16_Sleep_Disorders, #AK_Step1_v11::^Systems::Neuro::neurology, #AK_Step1_v11::^Systems::Neuro::neuroscience, #AK_Step2_v11::!Shelf::FM::no_dupes, #AK_Step2_v11::!Shelf::Neuro::no_dupes, #AK_Step2_v11::!Shelf::Psych::no_dupes, #AK_Step2_v11::#Resources_by_rotation::FM::ome::psych::sleep, #AK_Step2_v11::#Resources_by_rotation::Neuro::step1_neuro::neuroscience_zanki, #AK_Step2_v11::#Resources_by_rotation::Psych::fapsych::sleep, #AK_Step2_v11::Original_decks::Dorian::fam::ome::psych::sleep, #AK_Step2_v11::Original_decks::Dorian::psych::fapsych::sleep, #AK_Step2_v11::Original_decks::Zanki_Step_2::Neuro::Neuroscience
+markdown: false
+
+### Text
+<div>
+  What <u>EEG waveform</u> is emitted when <b>awake</b> with
+  <b>eyes <i>open</i></b>?
+</div>
+<div>
+  {{c1::Beta (highest frequency, lowest amplitude)}}
+</div>
+
+### Extra
+<div>
+  <i>"<b>BATS</b> <b>D</b>rink <b>B</b>lood"</i>
+</div>
+<div><img src="6744tn.jpg"></div>
+<div><img src="paste-306467391406081.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpFFzUG4.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/psychiatry/sleep-physiology/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

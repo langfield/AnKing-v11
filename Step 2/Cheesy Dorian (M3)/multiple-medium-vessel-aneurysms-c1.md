@@ -1,0 +1,54 @@
+## Note
+nid: 1553767223506
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step2_v11::!Shelf::IM, #AK_Step2_v11::#OME::08_Rheumatology::07_Vasculitis, #AK_Step2_v11::#OME_banner::Clinical::08_Rheumatology::07_Vasculitis, #AK_Step2_v11::#Resources_by_rotation::IM::ome::rheum::vasculitis, #AK_Step2_v11::#Subjects::Cardiology::12_Vascular_Pathology::Vasculitis::Polyarteritis_Nodosa, #AK_Step2_v11::Original_decks::Dorian::im::ome::rheum::vasculitis
+markdown: false
+
+### Text
+Multiple medium-vessel <font color="#FC0280">aneurysms</font> =
+{{c1::polyarteritis nodosa::vasculitis}}
+<div><img src="paste-993662158766083.jpg"></div>
+
+### Extra
+<div>
+  <i>"beads on string"</i>
+</div>
+<div><img src="paste-3226482511970305.jpg"><img src=
+"Screen%20Shot%202017-03-05%20at%2012.02.21%20PM.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/rheumatology/vasculitis/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

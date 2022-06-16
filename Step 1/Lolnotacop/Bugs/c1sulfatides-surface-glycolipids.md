@@ -1,0 +1,58 @@
+## Note
+nid: 1503251440902
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Lolnotacop::Bugs, #AK_Step1_v11::#AMBOSS::Musculoskeletal, #AK_Step1_v11::#B&B::18_Pulm::03_Other::06_Tuberculosis, #AK_Step1_v11::#FirstAid::03_Microbiology::02_Clinical_Bacteriology::20_Mycobacteria, #AK_Step1_v11::#FirstAid::03_Microbiology::02_Clinical_Bacteriology::20_Mycobacteria::Mycobacterium_Tuberculosis, #AK_Step1_v11::#FirstAid::03_Microbiology::02_Clinical_Bacteriology::21_Tuberculosis, #AK_Step1_v11::#OME_banner::Basic_Science::10_Musculoskeletal, #AK_Step1_v11::#Physeo::06_Micro::02_Bacteria::41_Mycobacterium_Tuberculosis, #AK_Step1_v11::#SketchyMicro::01_Bacteria::08_Mycobacteria::01_Tuberculosis, #AK_Step1_v11::#SketchyMicro::01_Bacteria::08_Mycobacteria::02_Leprae, #AK_Step1_v11::^Other::^HighYield::1-HighYield
+markdown: false
+
+### Text
+<b>{{c1::Sulfatides (surface glycolipids)}}</b> of <i>Mycobacterium
+tuberculosis</i> inhibit <u>{{c2::phagolysosome}}</u> fusion
+
+### Extra
+allows TB to survive in cells like macrophages
+<div>
+  macrophages phagocytose TB, but cannot combine with lysosomes to
+  degrade TB
+  <div><img src="paste-30893699760484.jpg"><img src=
+  "paste-31026843746653.jpg"></div>
+  <div><img src="paste-31310311588142.jpg"></div>
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpo9zwljrf.png"> <img src="tmpwh19arzm.png"> <img src=
+"tmpofqsgzq3.png"> <img src="tmpiomqtljf.png">
+
+### Sketchy
+<img src="paste-160099200925699.jpg"> <img src=
+"paste-8b4ff0171c372f99690592ea14e09e31e3c5f348.png">
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/musculoskeletal?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+<img src="paste-d2935a9735187a32ceb00de8c7841ca386a3d800.png">
+
+### One by one
+

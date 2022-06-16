@@ -1,0 +1,53 @@
+## Note
+nid: 1479351919381
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Neurology::Kaplan_Neuroscience, #AK_Step1_v11::#B&B::15_Neuro::04_ANS::01_ANS, #AK_Step1_v11::#B&B::15_Neuro::04_ANS::04_Autonomic_Receptors, #AK_Step1_v11::#FirstAid::05_Pharmacology::02_Autonomic_Drugs::01_Autonomic_Receptors, #AK_Step1_v11::#FirstAid::05_Pharmacology::02_Autonomic_Drugs::01_Autonomic_Receptors::*Autonomic_Nervous_System, #AK_Step1_v11::#OME_banner::Basic_Science::05_General_Pharmacology::01_General_Principles, #AK_Step1_v11::#Osmosis::16_Neuro::01_Physiology::05_Sympathetic_nervous_system, #AK_Step1_v11::#Physeo::03_Physiology::01_General_Principles::03_Receptors_-_Part_1, #AK_Step1_v11::#Physeo::09_Pharm::16_Autonomic_Pharm::02_Epinephrine_Norepinephrine, #AK_Step1_v11::#UWorld::1000-9999::1000-1999::1359, #AK_Step1_v11::#UWorld::1000-9999::1000-1999::1367, #AK_Step1_v11::^Systems::Neuro::ANS, #AK_Step1_v11::^Systems::Neuro::KaplanNeurology::01-Nervous_System_Organization, #AK_Step1_v11::^Systems::Neuro::neurology
+markdown: false
+
+### Text
+<div>
+  <u>Post-ganglionic</u> <b>sympathetic</b> <b>neurons</b> may
+  utilize <b>{{c1::norepinephrine}}</b> as a neurotransmitter,
+  which binds to α<sub>1</sub>, α<sub>2</sub>, and β<sub>1</sub>
+  receptors
+</div>
+
+### Extra
+<img src="paste-223982544486807.jpg" draggable="false">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmp1WT_Sf.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/general-pharmacology/general-principles/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_4.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

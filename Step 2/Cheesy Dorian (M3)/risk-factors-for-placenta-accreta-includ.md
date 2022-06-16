@@ -1,0 +1,62 @@
+## Note
+nid: 1556794596534
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::#OME_banner::Basic_Science::03_Genetics, #AK_Step2_v11::#Resources_by_rotation::ObGyn::uw::dorian, #AK_Step2_v11::#Resources_by_rotation::ObGyn::uw::zanki::pregnancy_childbirth_puerperium, #AK_Step2_v11::#Subjects::Obstetrics_&_Gynecology::02_Obstetrics_REDO::02_Delivery::Mother::Postpartum_Hemorrhage::Placenta_Accreta_Spectrum, #AK_Step2_v11::Original_decks::Dorian::obgyn::uw, #AK_Step2_v11::Original_decks::Zanki_Step_2::ObGyn::Pregnancy,_Childbirth_&_Puerperium
+markdown: false
+
+### Text
+Risk factors for <u>placenta accreta</u> include history of
+{{c1::cesarean}} delivery or {{c1::dilation & curettage::surgery}}
+and <b>advanced</b> <b>maternal age</b>
+
+### Extra
+<div>
+<div>
+  <div>
+    <div>
+      <div>
+        <i>chorionic villi must go deeper into myometrium to get
+        nutrients after scarred up or old</i>
+      </div>
+    </div><i>A-I-P (ABC order)</i>
+  </div>
+  <div>
+    <i>Accreta, Increta, Percreta</i>
+  </div>
+</div><img src="paste-54945516617731.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/obgyn?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

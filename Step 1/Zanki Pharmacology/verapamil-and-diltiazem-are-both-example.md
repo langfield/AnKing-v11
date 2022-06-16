@@ -1,0 +1,55 @@
+## Note
+nid: 1472502493911
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Pharmacology, #AK_Step1_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step1_v11::#B&B::14_MSK::02_Cell_Biology::02_Cardiac_Muscle, #AK_Step1_v11::#FirstAid::07_Cardiovascular::05_Pharm::03_Calcium_Channel_Blockers, #AK_Step1_v11::#OME_banner::Basic_Science::09_Cardiac, #AK_Step1_v11::#Physeo::03_Physiology::02_Cardio::04_Electrophysiology_-_Part_1, #AK_Step1_v11::#Physeo::09_Pharm::10_Cardiac::01_Hypertension_Treatment, #AK_Step1_v11::#Physeo::09_Pharm::10_Cardiac::02_Calcium_Channel_Blockers, #AK_Step1_v11::#SketchyPharm::02_Cardio_&_Renal::03_Antihypertensives::01_Calcium_channel_blockers, #AK_Step1_v11::#UWorld::100-999::100-199::153, #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step1_v11::^Systems::Cardio::Pharmacology
+markdown: false
+
+### Text
+<div>
+  <b>Verapamil</b> and <b>diltiazem</b> are both examples of
+  {{c1::non-dihydropyridine}} Ca<sup>2+</sup> channel blockers
+</div>
+
+### Extra
+<img src="paste-435672892572122.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="paste-666785082769411.jpg"><img src=
+"paste-60816736911363%20(1).jpg">
+
+### Sketchy
+<div>
+  <i>Sketchy Pharmacology: Calcium Channel Blockers (CCBs)</i>
+</div><img src=
+"Screen%20Shot%202019-09-18%20at%209.10.20%20AM.png"> <img src=
+"Screen%20Shot%202019-09-18%20at%209.10.30%20AM.png">
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/cardiac?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_2.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

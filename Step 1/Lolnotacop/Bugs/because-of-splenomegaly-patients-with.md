@@ -1,0 +1,52 @@
+## Note
+nid: 1503855340289
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Lolnotacop::Bugs, #AK_Step1_v11::#B&B::13_Infectious_Disease::06_Viruses::03_Herpes_Viruses, #AK_Step1_v11::#FirstAid::03_Microbiology::05_Virology::08_DNA_Viruses::Epstein-Barr_Virus, #AK_Step1_v11::#FirstAid::03_Microbiology::05_Virology::09_Herpesviruses, #AK_Step1_v11::#FirstAid::03_Microbiology::05_Virology::09_Herpesviruses::Epstein-Barr_Virus, #AK_Step1_v11::#OME_banner::Clinical::06_Infectious_Disease, #AK_Step1_v11::#Physeo::06_Micro::05_Viruses::03_Epstein-Barr_Virus_(EBV), #AK_Step1_v11::#SketchyMicro::03_Viruses::03_DNA::02_Epstein-Barr_virus_(Herpesviridae), #AK_Step1_v11::^Other::^HighYield::2-RelativelyHighYield, #AK_Step2_v11::!Shelf::Peds, #AK_Step2_v11::!Shelf::Peds::no_dupes, #AK_Step2_v11::#OME_banner, #AK_Step2_v11::#Resources_by_rotation::Peds::emma, #AK_Step2_v11::#Subjects::Gastroenterology::12_Spleen::Splenic_Rupture, #AK_Step2_v11::#Subjects::Gastroenterology::12_Spleen::Splenic_Rupture::Trauma, #AK_Step2_v11::#Subjects::Gastroenterology::12_Spleen::Splenomegaly, #AK_Step2_v11::#Subjects::Pulmonology::01_ENT::Pharynx::Mononucleosis, #AK_Step2_v11::Original_decks::Dorian::peds::emma
+markdown: false
+
+### Text
+Because of <b>splenomegaly</b>, patients with
+{{c2::<u>mononucleosis (EBV)</u>}} are advised to <i>avoid
+<u>contact sports</u></i> (e.g. football) for danger of <b>splenic
+{{c1::rupture}}</b>
+
+### Extra
+<img src="paste-12889196855653.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmppxfl71dz.png"> <img src="tmpkaxzpnl4.png"> <img src=
+"tmpwint4jbo.png"> <img src="tmplj0cngin.png">
+
+### Sketchy
+<img src="paste-152750511882243.jpg"> <img src=
+"paste-577e77b6fbdbe07cbdfc44ca92c9b2a22b6c03bd.png">
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/infectious-disease?ref=anki"><img src="_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

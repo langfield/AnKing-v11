@@ -1,0 +1,52 @@
+## Note
+nid: 1480550273823
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Neurology::Kaplan_Neuroscience, #AK_Step1_v11::#B&B::15_Neuro::02_Structures::03_Spinal_Cord_Syndromes, #AK_Step1_v11::#FirstAid::05_Pharmacology::02_Autonomic_Drugs::03_Micturition_Control::Atonic_Bladder, #AK_Step1_v11::#FirstAid::12_Neuro_&_Special_Senses::03_Pathology::24_Spinal_Lesions::Anterior_Spinal_Artery_Occlusion, #AK_Step1_v11::#FirstAid::14_Renal::04_Pathology::08_Urinary_Incontinence, #AK_Step1_v11::#FirstAid::14_Renal::04_Pathology::08_Urinary_Incontinence::Atonic_Bladder, #AK_Step1_v11::#OME_banner::Clinical::10_Neurology, #AK_Step1_v11::#Pathoma::17_Neuro::ASAO, #AK_Step1_v11::^Systems::Neuro::KaplanNeurology::04-Spinal_Cord_2, #AK_Step1_v11::^Systems::Neuro::neurology, #AK_Step1_v11::^Systems::Neuro::spinalcordlesions, #AK_Step2_v11::!Shelf::Neuro::no_dupes, #AK_Step2_v11::#Resources_by_rotation::Neuro::step1_neuro::step_1_neuro_zanki, #AK_Step2_v11::Original_decks::Zanki_Step_2::Neuro::Step_1_Neuro
+markdown: false
+
+### Text
+<div>
+  <b>{{c2::Atonic}} bladder</b> results from lesions {{c1::<u>at
+  the level of</u>}} the <b>sacral spinal</b> <b>cord</b>
+</div>
+
+### Extra
+<i>loss of contraction of the detrusor muscle results in a full
+bladder with a continuous dribble of urine from the bladder</i>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpplUDyq.png"> <img src="tmpmt1mr1.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/neurology?ref=anki"><img src="_OME_AnkiFlashcards_Topic_1.png"></a>
+</div>
+
+### Additional Resources
+<b>Other:</b> <img src="tmpqv4KhQ.png" class="resizer"> <img src=
+"tmpR7fSIt.png" class="resizer">
+
+### One by one
+

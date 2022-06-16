@@ -1,0 +1,57 @@
+## Note
+nid: 1583380433808
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Respiratory::Respiratory_Pathology, #AK_Step1_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step1_v11::!FLAG_THESE_CARDS::SketchyPathAdds, #AK_Step1_v11::#AMBOSS, #AK_Step1_v11::#FirstAid::16_Respiratory::04_Pathology::12_Pneumoconioses, #AK_Step1_v11::#FirstAid::16_Respiratory::04_Pathology::12_Pneumoconioses::*Basics, #AK_Step1_v11::#OME_banner::Basic_Science::15_Pulmonary::08_Restrictive_Lung_Disease, #AK_Step1_v11::#Physeo::11_Pathology::03_Pulmonary_Pathology::11_Pneumoconioses, #AK_Step1_v11::#SketchyPath::03_Pulmonary::02_Restrictive_Lung_Disease::03_Pneumoconioses, #AK_Step1_v11::#UWorld::100-999::500-599::536, #AK_Step1_v11::^Other::^EXPN::JBadd, #AK_Step1_v11::^Systems::Respiratory::JBadds
+markdown: false
+
+### Text
+<div>
+  In <b>pneumoconioses</b>, what happens to <u>small</u> particles
+  (1-5 microns in diameter) in the lungs?
+</div>
+<div>
+  {{c1::Trapped at the bifurcation of respiratory bronchioles}}
+</div>
+
+### Extra
+
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+<div>
+  * and subsequently phagocytosed by macrophages
+</div><img src="small%20particles_1566160514431.jpg"><img src=
+"Zoverall%20picture%20(14)_1566160514431.jpg">
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonary/restrictive-lung-disease/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

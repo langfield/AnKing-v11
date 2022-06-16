@@ -1,0 +1,56 @@
+## Note
+nid: 1475704484491
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Renal::Renal_Physiology_+_Embryo,_Anatomy, #AK_Step1_v11::!FLAG_THESE_CARDS::!DELETE, #AK_Step1_v11::#FirstAid::14_Renal::03_Physiology::15_Kidney_Endocrine_Functions, #AK_Step1_v11::#FirstAid::14_Renal::03_Physiology::15_Kidney_Endocrine_Functions::Parathyroid_Hormone, #AK_Step1_v11::#OME_banner::Clinical::07_Endocrinology, #AK_Step1_v11::#Physeo::03_Physiology::06_Endocrinology::04_Calcium_Homeostasis, #AK_Step1_v11::^Other::^FA_Updates::FArenal, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Renal::Physiology
+markdown: false
+
+### Text
+<div>
+  What renal <i>enzyme</i> facilitates the conversion of <b>25-OH
+  vitamin D<sub>3</sub></b> to <b>1,25 (OH)</b><sub style=
+  "font-weight: bold;">2</sub> <b>vitamin D</b><sub style=
+  "font-weight: bold;">3</sub>?
+</div>
+<div>
+  {{c1::1α-hydroxylase}}
+</div>
+
+### Extra
+<img src="paste-249357211271288.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpNzdA7e.png">
+
+### Sketchy
+<img src="Screen%20Shot%202019-11-11%20at%203.56.09%20PM.png">
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/endocrinology?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_3.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

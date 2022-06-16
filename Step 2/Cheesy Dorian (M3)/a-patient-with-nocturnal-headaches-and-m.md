@@ -1,0 +1,55 @@
+## Note
+nid: 1575134484671
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!Shelf::#Cards_AnKing_Did::3peds, #AK_Step2_v11::!Shelf::Peds::no_dupes, #AK_Step2_v11::!Shelf::Peds::no_dupes::only_step2, #AK_Step2_v11::#OME_banner, #AK_Step2_v11::#Resources_by_rotation::Peds::uworld::neuro::neuro_dorian, #AK_Step2_v11::#Subjects::Neurology::06_Intracranial_Hemorrhage::*Basics, #AK_Step2_v11::#Subjects::Neurology::07_Intracranial_Hypertension::*Basics, #AK_Step2_v11::#Subjects::Neurology::07_Intracranial_Hypertension::*Basics::Pathophysiology, #AK_Step2_v11::Original_decks::Dorian::peds::uw::neuro
+markdown: false
+
+### Text
+A patient with <u>nocturnal headaches</u> and <u>morning
+vomiting</u> are concerning for what?
+<div>
+  {{c1::Elevated ICP}}
+</div>
+
+### Extra
+- Sleeping → supine position → ICP increases d/t gravity
+<div>
+  - Increased ICP → cerebral edema → stimulation of receptors from
+  medullary vomiting center and area postrema
+</div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org?ref=anki"><img src=
+  "_OME_AnkiFlashcards_General_4.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

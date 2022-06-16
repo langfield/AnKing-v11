@@ -1,0 +1,60 @@
+## Note
+nid: 1463105983927
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Reproductive::Reproductive_Pathology, #AK_Step1_v11::#B&B::20_Repro::03_Vagina,_Cervix,_Uterus::02_Cervical_Cancer, #AK_Step1_v11::#FirstAid::15_Repro::04_Pathology::17_Cervical_Pathology::Carcinoma, #AK_Step1_v11::#OME::06_Inflammation_Neoplasia::09_Cancer_Epidemiology, #AK_Step1_v11::#OME_banner::Clinical::13_Gynecology::02_Cervical_Cancer, #AK_Step1_v11::#Pathoma::13_Female::03_Cervix, #AK_Step1_v11::#Physeo::11_Pathology::09_Reproductive_Pathology::10_Cervix, #AK_Step1_v11::#SketchyPath::08_Repro_&_GU::01_Uterine_&_Vulvovaginal_Disorders::02_Cervical_Neoplasia, #AK_Step1_v11::^Other::^EXPN::BGedit, #AK_Step1_v11::^Other::^EXPN::Uworld, #AK_Step1_v11::^Other::^FA_Updates::FA2018, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Reproductive::Pathology, #AK_Step2_v11::#AMBOSS, #AK_Step2_v11::#AMBOSS::IM, #AK_Step2_v11::#B&B::06_ObGyn::Gyne::09_Cervical_Cancer, #AK_Step2_v11::#OME::14_Gynecology::02_Cervical_Cancer
+markdown: false
+
+### Text
+<div>
+  What is the <b>#1</b> <b>risk factor</b> for <b>cervical</b>
+  <b>carcinoma</b>?
+</div>
+<div>
+  {{c1::Multiple sexual partners}}
+</div>
+
+### Extra
+<i>- risk factors for developing cervical cancer are related to the
+risk of <b>acquiring HPV infection</b></i>- other risk factors
+include <b>smoking</b>, starting sexual intercourse at a young age
+(early "coitarche"), and <b>immunodeficiency</b> (e.g. HIV
+infection), and lack of barrier contraceptive use
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpzKDk5x.png">
+
+### Sketchy
+<div><img src=
+"CIN%20high%20risk%20partnersunprotected%20sex%20risk%20factors.jpg"><img src="Zoverall%20picture-95a4e37eb23a397dd78109d475421d2a8c06ba44.JPG"></div><a href="https://dashboard.sketchy.com/study/medical/courses/medical-pathophysiology/units/medical-pathophysiology-reproductive-gu/videos/medical-pathophysiology-reproductive-and-gu-uterine-and-vulvovaginal-disorders-cervical-neoplasia?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">Watch
+Cervical Neoplasia</a>
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/gynecology/cervical-cancer/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_2.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

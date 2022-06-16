@@ -1,0 +1,55 @@
+## Note
+nid: 1475463368533
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Renal::Renal_Pathology, #AK_Step1_v11::#FirstAid::14_Renal::04_Pathology::23_Urothelial_Carcinoma_of_the_Bladder, #AK_Step1_v11::#OME_banner::Basic_Science::12_Renal, #AK_Step1_v11::#Pathoma::12_Renal::09_Lower_Urinary_Tract_Carcinoma, #AK_Step1_v11::#Physeo::11_Pathology::08_Renal_Pathology::08_Lower_Urinary_Tract_Infection, #AK_Step1_v11::^Other::^HighYield::4-LowerYield, #AK_Step1_v11::^Systems::Renal::Pathology
+markdown: false
+
+### Text
+<div>
+  Does <b>transitional cell carcinoma</b> via the <u>papillary</u>
+  pathway <i>develop</i> as a <b>high-grade</b> or <b>low-grade
+  tumor</b>?
+</div>
+<div>
+  {{c1::Low-grade tumor}}
+</div>
+
+### Extra
+<i>progresses to high-grade</i>
+<div><img src="paste-138310831833704.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpcZ412U.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href="https://onlinemeded.org/spa/renal?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_2.png"></a>
+</div>
+
+### Additional Resources
+<b>Atlas:</b> <img src="tmpfTKdYb.png"> <img src="tmpxxEAOp.png">
+
+### One by one
+

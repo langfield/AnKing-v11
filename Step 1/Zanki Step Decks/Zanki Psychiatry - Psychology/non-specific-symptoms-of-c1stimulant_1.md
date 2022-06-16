@@ -1,0 +1,56 @@
+## Note
+nid: 1485313565348
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Psychiatry_/_Psychology, #AK_Step1_v11::#B&B::17_Psych::03_Substance_Use::03_Stimulants, #AK_Step1_v11::#FirstAid::13_Psychiatry::02_Pathology::46_Psychoactive_Drug_Intoxication_&_Withdrawal::Stimulants::*Basics, #AK_Step1_v11::#FirstAid::13_Psychiatry::03_Pharm::03_Central_Nervous_System_Stimulants, #AK_Step1_v11::#FirstAid::13_Psychiatry::03_Pharm::03_Central_Nervous_System_Stimulants::*Basics, #AK_Step1_v11::#OME_banner::Clinical::12_Psychiatry, #AK_Step1_v11::#Physeo::09_Pharm::13_Psychiatric::06_CNS_Stimulants_Overview, #AK_Step1_v11::^Systems::Psychiatry
+markdown: false
+
+### Text
+<div>
+  <div>
+    <i>Non-specific</i> symptoms of <u>{{c1::stimulant}}
+    withdrawal</u> (stimulant or depressant) include <b>post-use
+    "crash"</b>, <b>depression</b>, <b>lethargy</b>, and
+    <b>hypersomnia/weight gain</b>
+  </div>
+</div>
+
+### Extra
+<i>also may have <b>sleep disturbances</b> and <b>vivid
+nightmares</b></i>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmp4Y2zwX.png"> <img src="tmpXGtqXi.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/psychiatry?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

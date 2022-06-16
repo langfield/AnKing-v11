@@ -1,0 +1,55 @@
+## Note
+nid: 1550709687046
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step2_v11::!Shelf::#Cards_AnKing_Did::4fm, #AK_Step2_v11::!Shelf::FM::no_dupes, #AK_Step2_v11::!Shelf::FM::no_dupes::only_step2, #AK_Step2_v11::!Shelf::IM::no_dupes, #AK_Step2_v11::!Shelf::IM::no_dupes::only_step2, #AK_Step2_v11::#B&B::07_Pulmonary::03_Other_topics::02_DVT_and_pulmonary_embolism, #AK_Step2_v11::#OME::02_Pulmonology::05_Pulmonary_Embolism, #AK_Step2_v11::#OME_banner::Clinical::02_Pulmonology::04_Pulmonary_Embolism, #AK_Step2_v11::#Resources_by_rotation::FM::ome::pulm::pe, #AK_Step2_v11::#Resources_by_rotation::IM::ome::pulm::pe, #AK_Step2_v11::#Subjects::Pulmonology::05_Lungs::Hypercoagulability::Embolism::Pulmonary_Embolism, #AK_Step2_v11::#Subjects::Pulmonology::05_Lungs::Hypercoagulability::Embolism::Pulmonary_Embolism::Management, #AK_Step2_v11::Original_decks::Dorian::fam::ome::pulm::pe, #AK_Step2_v11::Original_decks::Dorian::im::ome::pulm::pe
+markdown: false
+
+### Text
+Imaging test of choice for <b>PE</b> if patient has <u>renal
+failure</u> (GFR < <b>30</b>) = {{c1::V/Q scan (showing normal V
+and low Q)}}
+
+### Extra
+<div>
+  <i><b>CT angiography</b> = nephrotoxic contrast dye</i>
+</div>
+<div><img src="big_5950db0127671.jpg"><img src=
+"paste-1443998069686273.jpg"></div>
+<div><img src="dvt.PNG"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/pulmonology/pulmonary-embolism/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_4.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

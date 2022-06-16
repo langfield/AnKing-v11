@@ -1,0 +1,56 @@
+## Note
+nid: 1506031012044
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Lolnotacop::Drugs, #AK_Step1_v11::#B&B::13_Infectious_Disease::03_Antibiotics::04_Protein_Synthesis_Inhibitors, #AK_Step1_v11::#FirstAid::03_Microbiology::07_Antimicrobials::17_Linezolid, #AK_Step1_v11::#FirstAid::05_Pharmacology::03_Toxicities_&_Side_Effects::07_Drug_reactions_-_neurologic, #AK_Step1_v11::#OME_banner::Clinical::06_Infectious_Disease, #AK_Step1_v11::#Physeo::09_Pharm::05_Antibiotics::15_Linezolid, #AK_Step1_v11::#Pixorize::04_Micro::01_Antibiotics_Antiparasitics::Linezolid, #AK_Step1_v11::#SketchyPharm::07_Antimicrobials::02_Inhibitors_of_Bacterial_Protein_Synthesis::06_Linezolid
+markdown: false
+
+### Text
+Long term use of Linezolid can result in {{c1::optic}} and
+{{c1::peripheral}} <b>neuropathy</b>
+
+### Extra
+<div>
+  <i>peripheral neuropathy will manifest in a <u>glove and
+  stocking</u> distribution</i>
+</div><img src="paste-18773302051225.jpg"><img src=
+"paste-19052474925456.jpg">
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="paste-321710230339587.jpg"><img src=
+"paste-405298883854339.jpg">
+
+### Sketchy
+<img src="paste-228526619885569.jpg"> <img src=
+"Screen%20Shot%202020-01-28%20at%206.35.28%20PM.png"> <a href=
+"https://dashboard.sketchy.com/study/medical/courses/medical-pharmacology/units/medical-pharmacology-antimicrobials/videos/medical-pharmacology-antimicrobials-inhibitors-of-bacterial-protein-synthesis-linezolid?utm_source=anki&utm_medium=partnership&utm_campaign=february_update&utm_content=medical">
+Watch Linezolid</a>
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/infectious-disease?ref=anki"><img src="_OME_AnkiFlashcards_Topic_1.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

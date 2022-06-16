@@ -1,0 +1,59 @@
+## Note
+nid: 1461857387477
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_1::Zanki_Step_Decks::Zanki_Endocrine::Endocrine_Physiology, #AK_Step1_v11::#B&B::08_Endocrinology::05_Other::04_Signaling_Pathways, #AK_Step1_v11::#Costanzo::Endocrine::03_Mech_Hormone/2nd_Messengers, #AK_Step1_v11::#FirstAid::08_Endocrine::03_Physiology::14_Signaling_Pathways_of_Endocrine_Hormones::G-Protein_Signalling::03_Phospholipase_C_Mechanism, #AK_Step1_v11::#OME::04_Cell_Physio::05_Receptors, #AK_Step1_v11::#OME::14_Endocrine::01_Pituitary::01_Healthy_Pituitary, #AK_Step1_v11::#OME_banner::Basic_Science::05_General_Pharmacology::01_General_Principles, #AK_Step1_v11::#Physeo::03_Physiology::01_General_Principles::02_Receptors_&_Signaling_Pathways, #AK_Step1_v11::#UWorld::100-999::900-999::995, #AK_Step1_v11::#UWorld::1000-9999::1000-1999::1122, #AK_Step1_v11::^Other::^HighYield::1-HighYield, #AK_Step1_v11::^Systems::Endocrine::Physiology
+markdown: false
+
+### Text
+<div>
+  In the <u>phospholipase C</u> mechanism of cellular signaling,
+  <b>{{c1::Ca<sup>2+</sup>}}</b> and <b>{{c1::diacylglycerol
+  (DAG)}}</b> activate <b>{{c2::protein kinase C}}</b>, which
+  phosphorylates specific proteins to produce physiologic actions
+</div>
+
+### Extra
+<div>
+  <i>Ca<sup>2+</sup> is released by IP<sub>3.</sub></i>
+</div>
+<div>
+  <i>*diacylglycerol may also be used to form arachidonic acid</i>
+</div>
+<div><img src="paste-419510930637372.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+<img src="tmpN7Utxb.png">
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/general-pharmacology/general-principles/acquire?ref=anki">
+  <img src="_OME_AnkiFlashcards_Lesson_6.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+

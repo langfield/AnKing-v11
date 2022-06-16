@@ -1,0 +1,57 @@
+## Note
+nid: 1572989710296
+model: AnKingOverhaul
+tags: #AK_Original_Decks::Step_2::Cheesy_Dorian_(M3), #AK_Step1_v11::#OME_banner::Clinical::12_Psychiatry, #AK_Step1_v11::#Physeo::09_Pharm::13_Psychiatric::12_Marijuana, #AK_Step2_v11::!FLAG_THESE_CARDS::Potential_duplicates, #AK_Step2_v11::!Shelf::#Cards_AnKing_Skipped, #AK_Step2_v11::#OME::12_Psychiatry::17_Addiction_2_Drugs, #AK_Step2_v11::#Resources_by_rotation::Psych::uworld::dorian, #AK_Step2_v11::#Subjects::Psychiatry::17_Substance_Abuse_Disorder::Marijuana, #AK_Step2_v11::Original_decks::Dorian::psych::uw
+markdown: false
+
+### Text
+<div>
+  <font color="#FC0280">Conjunctival injection (red eyes)</font>
+  classicaly characterizes <u>intoxication</u> of what substance?
+</div>
+<div>
+  {{c1::Marijuana}}
+</div>
+<div><img src="paste-1936403185270785.jpg"></div>
+
+### Extra
+<div><img src="paste-1875320160387073.jpg"></div>
+<div><img src="paste-1829656068096001.jpg"><img src=
+"paste-650515746652161.jpg"></div>
+
+### Lecture Notes
+
+
+### Missed Questions
+
+
+### Pathoma
+
+
+### Boards and Beyond
+
+
+### First Aid
+
+
+### Sketchy
+
+
+### Pixorize
+
+
+### Physeo
+
+
+### OME
+<div class="ome-widget">
+  <a href=
+  "https://onlinemeded.org/spa/psychiatry?ref=anki"><img src=
+  "_OME_AnkiFlashcards_Topic_5.png"></a>
+</div>
+
+### Additional Resources
+
+
+### One by one
+
